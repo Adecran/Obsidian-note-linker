@@ -1,0 +1,11 @@
+{
+	"id": "CONNECTS-NOTES",
+	"name": "CONNECTS-NOTES",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"author": "mohammad",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
